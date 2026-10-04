@@ -84,4 +84,4 @@ See [CONTRIBUTING.md]
 [Slack]: https://crossplane.slack.com/messages/upbound/
 [Up]: https://docs.upbound.io/manuals/cli/overview/
 [VS Code Up extension]: https://marketplace.visualstudio.com/items?itemName=Upboundio.upbound
-[`xpls`]: https://github.com/upbound/uphttps://docs.upbound.io/reference/cli-reference/#up-xpls
+[`xpls`]: https://docs.upbound.io/reference/cli-reference/#up-xpls
